@@ -2,8 +2,8 @@
 
 Hardware fast PWM + ADC in ATmega16. The same [task](https://github.com/rcv911/Fast-PWM-AVR) but now we should use ADC for change duty cycle.
   
->I recommend use variable resistor with led for check
-![variable resistor](images/variable_resistor.jpg)
+>I recommend use [potentiometer/variable resistor](http://www.resistorguide.com/potentiometer/) with led for check.
+
 
 ## Motivation
 
