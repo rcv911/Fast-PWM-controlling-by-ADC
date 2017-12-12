@@ -1,6 +1,6 @@
 ## Fast PWM controlling by ADC on ATmega16 
 
-The same [task](https://github.com/rcv911/Fast-PWM-AVR). Hardware fast PWM + ADC in ATmega16. 
+Hardware fast PWM + ADC in ATmega16. The same [task](https://github.com/rcv911/Fast-PWM-AVR) but now we should use ADC for change duty cycle.
   
 >I recommend use variable resistor with led for check
 ![variable resistor](images/variable_resistor.jpg)
